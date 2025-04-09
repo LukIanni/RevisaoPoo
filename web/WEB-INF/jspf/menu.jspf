@@ -3,4 +3,6 @@
 <lu>
     <li><a href="index.jsp" >Início</a> </li>
     <li><a href="número-primo.jsp" >Verificador de numero primo</a> </li>
+    <li><a href="fibonacci.jsp" >Verificador Fibonacci</a> </li>
+    <li><a href="soma.jsp" >Somador</a> </li>
 <lu>
