@@ -29,7 +29,7 @@
     <body>
         <h1>Série de Fibonacci</h1>
         <div><%@include file="WEB-INF/jspf/menu.jspf" %></div>
-
+        <br>
         <form method="post">
             <label for="indice">Digite o índice desejado (n >= 1):</label>
             <input type="number" id="indice" name="indice" min="1" required>

@@ -10,6 +10,8 @@
         
         <div><%@include file="WEB-INF/jspf/menu.jspf" %></div>
 
+        <br>
+        
         <form method="post">
             <label for="numero">Digite um número inteiro positivo:</label>
             <input type="number" id="numero" name="numero" min="1" required>

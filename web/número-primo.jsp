@@ -41,6 +41,7 @@
         <h1>Verificador de Número Primo</h1>
         
         <div><%@include file="WEB-INF/jspf/menu.jspf" %></div>
+        <br>
         <form method="post">
             <label for="numero">Digite um número inteiro:</label>
             <input type="number" id="numero" name="numero" required>
